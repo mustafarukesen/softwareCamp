@@ -19,7 +19,7 @@ namespace ValueAndReferenceTypes
             int[] nums2 = new int[] { 100, 200, 300 };
             nums1 = nums2;
             nums2 = 999;
-            //nums2 ??  999
+            //nums1 ??  999
 
 
         }
